@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Aegis of the Immortal",
+        "category": "Artifact",
+        "image": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Aegis_of_the_Immortal_icon.png/revision/latest?cb=20180214210935",
+        "price": 5500,
+        "description": "This item grants a second life upon death, and cannot be sold."
+      },
+      {
+        "id": 2,
+        "name": "Black King Bar",
+        "category": "Artifact",
+        "image": "https://sun9-13.userapi.com/impf/c858220/v858220284/1a2d75/IBVEVQgbdg8.jpg?size=510x200&quality=96&sign=cb0096c2966f17fd99d07727af60d80b&type=vote",
+        "price": 4200,
+        "description": "Grants spell immunity, preventing most enemy spells from affecting you."
+      },
+      {
+        "id": 3,
+        "name": "Butterfly",
+        "category": "Artifact",
+        "image": "https://sun9-67.userapi.com/impf/xNbV2cwDFbn_ZBGyaYnLgL-6-Q043hExDtYp4w/O4errHyXKQM.jpg?size=512x512&quality=96&sign=f0d9340800b3d24206215058decf1dfd&c_uniq_tag=ksnDw1xyC7Ys_F75h8eXBWj3x4MKU-GeFaU7XWI6cUw&type=album",
+        "price": 6000,
+        "description": "Increases attack speed and agility, and grants evasion to dodge enemy attacks."
+      },
+      {
+        "id": 4,
+        "name": "Cheese",
+        "category": "Consumable",
+        "image": "https://sun6-21.userapi.com/impg/cun96dENYqhsLDxCf02WaXwE-Xr4rBAf2LEaTA/ygqFSbHyPgg.jpg?size=498x497&quality=96&sign=293ef28faba07d3b9e434567304d5051&c_uniq_tag=a3OXcjyEivCSUCOc7olopr26jKswMa_phzsqVvbF88o&type=album",
+        "price": 250,
+        "description": "Restores a small amount of health and mana over time."
+      },
+      {
+        "id": 5,
+        "name": "Dagon",
+        "category": "Artifact",
+        "image": "https://sun9-55.userapi.com/impg/otZ-3-A5Sa3e4zk4nAVI4lDutnHkYeqQEke4uA/SHDHnKOyojA.jpg?size=604x453&quality=95&sign=b39b677bfdc8944c7901179c777bf46e&type=album",
+        "price": 3150,
+        "description": "Consumes a charge to deal magical damage to an enemy unit."
+      },
+      {
+        "id": 6,
+        "name": "Eul's Scepter of Divinity",
+        "category": "Artifact",
+        "image": "https://sun1-24.userapi.com/s/v1/ig2/eNylqlc5nQhZT-3KnCw8Z5XZ55Lw9Pd22q1UwZAVp8RB-kvC0GvH1tQnZk1OXVFwO_oT_fy83nTRt4GWwED1cRUx.jpg?size=897x897&quality=95&crop=0,3,897,897&ava=1",
+        "price": 2850,
+        "description": "Grants increased intelligence and movement speed, and allows you to cyclone an enemy unit."
+      },
+      {
+        "id": 7,
+        "name": "Hand of Midas",
+        "category": "Artifact",
+        "image": "https://yt3.googleusercontent.com/ytc/AOPolaRtcXLOfUiIPkMxUNsJ4oMewGznd-NKUnsxSNPtCg=s900-c-k-c0x00ffffff-no-rj",
+        "price": 2050,
+        "description": "Allows you to transmute a creep, gaining gold and experience."
+      },
+      {
+        "id": 8,
+        "name": "Manta Style",
+        "category": "Artifact",
+        "image": "https://chpic.su/_data/stickers/d/Dota2Items/Dota2Items_015.webp",
+        "price": 5000,
+        "description": "Grants increased agility and attack speed, and allows you to create illusions of yourself."
+      },
+      {
+        "id": 9,
+        "name": "Radiance",
+        "category": "Artifact",
+        "image": "https://sun6-22.userapi.com/s/v1/ig2/YOJrGvcMntBWxiYZLdjY12lSnNmdVejK_yUDUfGWctNxPOvXO6JrEpcYFyjFRiyCJ5FcpWiY6MgSYIhvtzB0habz.jpg?size=719x719&quality=95&crop=1,1,719,719&ava=1",
+        "price": 5150,
+        "description": "Increases attack damage and grants burn damage to nearby enemies."
+      },
+      {
+        "id": 10,
+        "name": "Sange and Yasha",
+        "category": "Artifact",
+        "image": "https://i.ytimg.com/vi/k7L3QeNqUwA/hqdefault.jpg",
+        "price": 4700,
+        "description": "Grants increased strength, agility, and movement speed, and allows you to maim enemies on hit."
+      }
+    ]
+  }
+  
